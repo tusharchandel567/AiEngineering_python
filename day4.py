@@ -1,2 +1,2 @@
 import calendar
-print(calendar.calendar(2024))
+print(calendar.calendar(2026))
