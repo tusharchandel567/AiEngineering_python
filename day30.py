@@ -1,4 +1,6 @@
 #Bit wise operators
+# tottal 6 operators 
+
 # 1. << 
 a = 10
 b = 12
